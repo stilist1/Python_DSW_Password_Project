@@ -5,7 +5,7 @@ This is a simple Python application built with `tkinter` that generates random p
 
 ## Requirements
 - Python 3.x
-- `tkinter` (included in the standard Python library)
+- `tkinter`
 - `funcs.py` file containing the `generatePassword` function
 
 ## How to Use
