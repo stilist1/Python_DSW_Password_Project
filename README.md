@@ -4,7 +4,7 @@
 This is a simple Python application built with `tkinter` that generates random passwords based on user-defined input length. Users can specify a password length (ranging from 1 to 25 characters), and the app will generate the password. The generated password can then be copied to the clipboard.
 
 ## Requirements
-- Python 3.x
+- Python 3.x+
 - `tkinter`
 - `funcs.py` file containing the `generatePassword` function
 
